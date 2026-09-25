@@ -44,22 +44,6 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;}
-#div_resumo{
-    width: fit-content;
-    font-size: 55%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: -10px;}
-#resumo{
-    font-family: Poppins-Regular;
-    color: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-    width:70%;}
-
 
 #links{
     display: flex;
